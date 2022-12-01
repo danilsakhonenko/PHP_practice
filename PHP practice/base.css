@@ -1,0 +1,12 @@
+.base {
+    position:absolute;
+    width: 30%;
+    left: 35%;
+    top: 25%;
+    text-align: center;
+    word-break:break-all;
+}
+.result {
+    width: 100%;
+}
+
